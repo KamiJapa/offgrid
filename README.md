@@ -1,5 +1,11 @@
 # OFFGRID SUPPLY
 
+## Autoria
+
+Este site foi desenvolvido por **Daniel Murakami**.
+
+**Portfólio:** [portfoliomurakami.netlify.app](https://portfoliomurakami.netlify.app/)
+
 An original, static streetwear brand experience. Built for a front-end portfolio with HTML5, compiled Tailwind CSS, custom CSS, Vanilla JavaScript modules, GSAP Core and ScrollTrigger. All runtime assets are local. There is no production Node server, backend, database, tracking, checkout or subscription service.
 
 **Fictional brand:** OFFGRID SUPPLY, its products, prices, campaigns and London identity are demonstration content. Nothing is manufactured, sold or subscribed through this website. Photography is AI-generated concept imagery. The contact address uses the reserved `.example` domain.
